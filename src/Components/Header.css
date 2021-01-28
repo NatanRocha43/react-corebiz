@@ -1,0 +1,41 @@
+.logotipo{
+    width: 170px;
+    height: 41px;
+    margin-top: 16px;
+}
+.ant-input{
+    margin-top: 29px !important;
+    margin-left: 35px !important;
+}
+.iconSearch{
+    margin-top: 29px !important;
+}
+
+.buttonHeader{
+    font-style: normal;
+    font-weight: normal;
+    margin-top: 33px;
+    height: 18px;
+    font-size: 15px;
+    line-height: 18px;
+    color: #7A7A7A;
+    border: none;
+    background: none;
+}
+#iconPurchase{
+
+    margin-top: 31px;
+}
+.numberBuy{
+    margin-left: 9px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    padding: 1px 5px;
+    border-radius: 50%;
+    line-height: 14px;
+    color: #FFFFFF;
+    background: #F8475F;
+    width: 14px;
+    height: 14px;
+}
