@@ -12,7 +12,7 @@ export default class Footer extends Component{
                 <Row gutter={{xs: 8, sm: 32}}>
                     <Col className="gutter-row"sm={4}/>
                     <Col className="gutter-row"sm={8}>
-                        <h3 className={'tituloFooter'}>Localização</h3>
+                        <h3 className={'Localizacao'}>Localização</h3>
                         <p className={'Localizacao'}>
                             Avenida Andrômeda, 2000. bloco 6 e 8 <br/>
                             Alphavile SP<br/>
