@@ -1,0 +1,73 @@
+.Banner{
+    margin-top: 24px;
+    width: 100%;
+}
+
+.vendido{
+    text-align: left;
+    margin-top: 25px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 27px;
+
+}
+.divImageProduto{
+    display: flex !important;
+}
+.imageProduto{
+    margin-left: 100px;
+    width: 150px;
+    height: 150px;
+
+}
+.nomeProduto{
+    margin-left: 100px;
+    color: #7A7A7A;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+}
+.star{
+    margin-left: 100px;
+}
+.valorPrice, .valorlistPrice{
+    margin-left: 100px;
+}
+.valorlistPrice{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #7A7A7A;
+}
+.botaoComprar{
+    margin-left: 100px;
+    margin-bottom: 50px;
+    width: 125.28px;
+    height: 32.42px;
+    color:#FFFFFF;
+    background: #000000;
+    border-radius: 5px;
+}
+.divEmail{
+    background: #F2F2F2;
+    padding-top: 30px;
+
+}
+
+.inputNome, .inputEmail{
+    border: none;
+    width: 280px;
+    height: 48px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.cadastro{
+    width: 125.28px;
+    height: 32.42px;
+    color:#FFFFFF;
+    background: #000000;
+    border-radius: 5px;
+}
