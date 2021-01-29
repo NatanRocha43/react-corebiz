@@ -1,5 +1,6 @@
 import Header from "./Components/Header";
 import Home from './Components/home'
+import Footer from "./Components/Footer";
 import 'antd/dist/antd.css';
 import './App.css';
 
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
       <Header/>
       <Home/>
+      <Footer/>
     </div>
   );
 }
