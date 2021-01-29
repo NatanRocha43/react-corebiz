@@ -1,4 +1,5 @@
-##scripts para rodar o projeto.
+# Script
+scripts para rodar o projeto.
 
 npm install
 Para instalar todos os pacotes e dependencias do projeto
