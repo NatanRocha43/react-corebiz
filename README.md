@@ -1,4 +1,4 @@
-# Script
+# Scripts
 scripts para rodar o projeto.
 
 npm install
