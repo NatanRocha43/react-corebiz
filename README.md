@@ -9,6 +9,6 @@ Rodar o projeto em modo de desenvolvimento
 Abra http://localhost:3000 para visualizar no browser.
 
 ## Observação 
-Chamadas de api via fetch 
-utilizados duas bibliotecas para estilizar(ant-desing; material-ui)<br>
-projeto ainda sem responsividade
+Chamadas de api via fetch<br> 
+Utilizados duas bibliotecas para estilizar(ant-desing; material-ui)<br>
+Projeto ainda sem responsividade
